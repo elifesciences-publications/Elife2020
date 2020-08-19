@@ -8,7 +8,10 @@ sum_stats1_file	[QTL summary stats file]	name of the file
 sum_stats2_file	[GWAS trait summary stats file]	name of the file
 fields_sum_stats1	{'chr':"chromosome",'snp_id':"snp_id",'snp_pos':None,'ref':None,'alt':None,'pvalue':"p_value_raw",'beta':"beta",'beta_se':"beta_se",'ensembl_gene_id':"gene_ensembl_id"}	fields for summary stats 1; use ensembl_gene_id (change from None) if colocalisation should consider gene
 fields_sum_stats2	{'chr':None,'snp_id':"variant_id",'snp_pos':None,'ref':None,'alt':None,'pvalue':"pval_nominal",'beta':"slope",'beta_se':"slope_se",'ensembl_gene_id':"gene_id"}	fields for summary stats 2; use ensembl_gene_id (change from None) if colocalisation should consider gene
-ecaviar_path   [eCAVIAR path]	path to ecaviar
+ecaviar_path	[eCAVIAR path]	path to ecaviar
 path_data	[path to QTL data]	folder for qtls
 pQTL_file	[name of pQTL file]	folder for summary stats 1
 eQTL_file	[name of eQTL file]	folder for summary stats 1
+path_data_h5_files	[path to QTL h5 files]	 
+protein_h5_file	[protein h5 file]	 
+peptide_h5_file	[peptide h5 file]	 
