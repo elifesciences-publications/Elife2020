@@ -1,3 +1,6 @@
+### This code is associated with the paper from Mirauta et al., "Population-scale proteome variation in human induced pluripotent stem cells". eLife, 2020. http://dx.doi.org/10.7554/eLife.57390
+
+
 # Elife2020
 
 Repository containing selected analysis scripts. 
